@@ -65,3 +65,6 @@ The program will simulate capturing images and display the raw, packed, and enco
 
 ### License
 This project is licensed under the MIT License.
+
+### License
+This project is developed by Mithushan. Contact: mithushan.ravichandramohan@gmail.com
