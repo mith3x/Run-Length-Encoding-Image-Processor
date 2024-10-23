@@ -14,7 +14,7 @@ The program simulates taking a black-and-white image as an array of characters (
 - **Run-Length Encoding**: Encodes the packed image by using run-length encoding to represent repeated sequences of bits.
 
 ### Files
-- **main.c**: The main program that handles the flow of capturing, packing, and encoding the image.
+- **a2-posted.c**: The main program that handles the flow of capturing, packing, and encoding the image.
 - **camera.o**: Simulates the camera functionality. The function `take_photo()` is used to capture the photo data.
 - **Utility Functions**: Functions like `get_bit()`, `set_bit()`, and `clear_bit()` are provided for bit manipulation.
 
