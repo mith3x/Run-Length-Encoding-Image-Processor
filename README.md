@@ -49,7 +49,7 @@ The program simulates taking a black-and-white image as an array of characters (
 ### How to Run
 Compile the program with the provided camera library:
 
-gcc -o run_length_encoding main.c camera.o
+gcc -o run_length_encoding a2-posted.c camera.o
 
 
 Run the program:
